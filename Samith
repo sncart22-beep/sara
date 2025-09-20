@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Best Android Simulators & Mod APKs</title>
+  <meta name="description" content="Explore the best Android simulators and mod APKs for gaming and productivity. Download guides, tips, and resources.">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My GitHub Page</h1>
+    <p>Your hub for Android simulators, apps, and modded tools.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>About This Project</h2>
+      <p>
+        This GitHub Pages site is a resource hub for technology and mobile gaming enthusiasts. 
+        We cover Android simulators, customization tools, and productivity hacks.
+      </p>
+    </section>
+
+    <section>
+      <h2>Featured Resource</h2>
+      <p>
+        Looking for the latest modded apps and simulator tools? 
+        Visit <a href="https://simulatorsmodapk.com/">Simulators Mod APK</a> for tutorials, downloads, and updates.
+      </p>
+    </section>
+
+    <section>
+      <h2>Guides & Tutorials</h2>
+      <ul>
+        <li>How to run Android apps on PC</li>
+        <li>Top simulator games with mod features</li>
+        <li>Safe installation tips for APK files</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 My GitHub Page | Powered by GitHub Pages</p>
+  </footer>
+</body>
+</html>
